@@ -12,8 +12,8 @@ Before
 
 =begin HTML
 
-<p><img src="http://gphat.github.com/chart-clicker/static/images/examples/line.png"
-width="500" height="250" alt="Line Chart" /></p>
+<p><img src="https://raw.github.com/vichou/App-logcat_format/master/screenshots/before.png"
+width="500" height="250" alt="Before" /></p>
 
 =end HTML
 
@@ -21,8 +21,8 @@ After
 
 =begin HTML
 
-<p><img src="http://gphat.github.com/chart-clicker/static/images/examples/line.png"
-width="500" height="250" alt="Line Chart" /></p>
+<p><img src="https://raw.github.com/vichou/App-logcat_format/master/screenshots/after.png"
+width="500" height="250" alt="Before" /></p>
 
 =end HTML
 
