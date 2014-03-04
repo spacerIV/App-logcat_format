@@ -44,7 +44,7 @@ For other adb logcat commands, just pipe into logcat_format ..
 
 =head1 VERSION
 
-version 0.04
+version 0.05
 
 =cut
 

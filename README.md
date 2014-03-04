@@ -37,4 +37,4 @@ For other adb logcat commands, just pipe into logcat_format ..
 
 ### VERSION
 
-version 0.04
+version 0.05
